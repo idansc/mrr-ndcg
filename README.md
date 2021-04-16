@@ -25,4 +25,4 @@ https://technionmail-my.sharepoint.com/:f:/g/personal/idansc_campus_technion_ac_
 
 ## Run
 
-Please follow the jupyet notebook: ```Two-step ranks ensemble.ipynb```.
+Please follow the jupyter notebook: ```Two-step ranks ensemble.ipynb```.
