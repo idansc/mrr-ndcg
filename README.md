@@ -15,7 +15,7 @@ We propose a two-step non-parametric ranking approach that can merge strong MRR 
 
 ## Preprocessed data:
 
-Place the following meta under the data dir:
+Place the following meta-data under the data dir:
 https://technionmail-my.sharepoint.com/:f:/g/personal/idansc_campus_technion_ac_il/EtF8106BEL9Bg_l8aO1KgC4BX8FgFQvkFRGIRspzITJGFA?e=y5AYFP
 
 
