@@ -4,7 +4,7 @@
 This repository is the official implementation of [Ensemble of MRR and NDCG models for Visual Dialog](https://arxiv.org/abs/2104.07511).
 (To appear in NAACL'21)
 
-We propose a two-step non-parametric ranking approach that can merge strong MRR and NDCG models. Using our approach, we manage to keep most MRR state-of-the-art performance (70.41% vs. 71.24%) and the NDCG state-of-the-art performance (72.16% vs. 75.35%). 
+We propose a two-step non-parametric ranking approach that can merge strong MRR and NDCG models. Using our method, we manage to keep most MRR state-of-the-art performance (70.41% vs. 71.24%) and the NDCG state-of-the-art performance (72.16% vs. 75.35%). 
 
  <img src="img/teas.png" height="60%" width="60%"/>
  
