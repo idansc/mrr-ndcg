@@ -8,7 +8,7 @@ We propose a two-step non-parametric ranking approach that can merge strong MRR 
 
  <img src="img/teas.png" height="60%" width="60%"/>
  
- The approach is a ranks ensemble of:
+ The approach is a rank ensemble of:
  * The MRR model: [Factor Graph Attention](https://github.com/idansc/fga)
  * The NDCG model: [Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline](https://github.com/vmurahari3/visdial-bert)
 
